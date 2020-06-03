@@ -1,5 +1,8 @@
 #include <iostream>
+
 void main()
 {
-std::cout<<"aaaa"<<endl;
+    int a,b;
+    cin>>a;
+std::cout<<"a = "<<a<<endl;
 }
