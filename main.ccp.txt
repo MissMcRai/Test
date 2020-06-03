@@ -7,6 +7,11 @@ void main()
     cin>>b;
 std::cout<<"a = "<<a<<endl;
 std::cout<<"b = "<<b<<endl;
+
 std::cout<<"a + b = "<<a+b<<endl;
-std::cout<<"My master"<<endl;
+
+std::cout<<"a - b = "<<a-b<<endl;
+
+std::cout<<"My Master"<<endl;
+
 }
